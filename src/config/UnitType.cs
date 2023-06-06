@@ -3,7 +3,7 @@ namespace CastleStory_SpeedOfUnits.Config
     enum UnitType
     {
         Bricktron,
-        Briftron,
+        Biftron,
         Corruptron,
         Minitron,
         Magitron
